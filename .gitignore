@@ -1,0 +1,6 @@
+.git
+.ipynb_checkpoints
+others/
+*.py
+*.txt
+final-statement.ipynb
